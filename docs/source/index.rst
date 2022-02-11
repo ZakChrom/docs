@@ -3,7 +3,7 @@ Welcome to Schematell's Documentation!
 
 **Schematell** (/schema'tell/) is a celluar automata game
 that expands on the cult classic `Cell Machine Mystic Mod <https://themysticlynx.itch.io/cell-machine-mystic-mod>`_.
-Please note that this is not a documentation for modifying source code
+Please note that this is not documentation for modifying source code
 but rather the documentation for making cells.
 
 .. note::
