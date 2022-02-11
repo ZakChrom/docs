@@ -8,7 +8,7 @@ but rather the documentation for making cells.
 
 .. note::
 
-   This project is under active development, so are the docs.
+   This project is under active development, and so are the docs.
    We need your help to update the docs every time there is a new update!
    Help us at `github.com/Schematell/docs <https://github.com/Schematell/docs>`_
 
